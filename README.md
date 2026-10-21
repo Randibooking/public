@@ -1,3 +1,5 @@
+<img src="randirandi.png" alt="RandiRandi" width="96">
+
 # RandiRandi
 
 I'm Randi from Torshov. I keep the shared rooms in order: you see what's
