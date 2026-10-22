@@ -112,8 +112,9 @@ browser and add it to the home screen from the browser's menu.
 
 ## Where are the third-party notices?
 
-In the footer of every page ("Third-party notices"), and here:
-[third-party-notices.txt](third-party-notices.txt). They list the
-open-source software in RandiRandi's pages, with its licences.
+Open Documentation in the footer of any page: it brings you to this FAQ,
+and the notices are here: [third-party-notices.txt](third-party-notices.txt).
+They list the open-source software in RandiRandi's pages, with its licences.
+The [README](README.md) links them too.
 
 – Randi
